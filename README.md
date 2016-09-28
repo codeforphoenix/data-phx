@@ -4,6 +4,12 @@ You may also be interested in the list of [datasets commonly released](http://us
 
 Please send a pull request if you find any data you think would be useful.
 
+### City of Mesa's [Open Data Portal](http://open.mesaaz.gov/home)
+- [OpenGIS](http://opengis.mesaaz.gov/)
+	- [News Update](http://www.mesaaz.gov/city-hall/open-data/open-data-portal-welcome)
+	- [Search Datasets](http://open.mesaaz.gov/search/)
+	- [External Data Suggestions](http://www.mesaaz.gov/city-hall/open-data/suggest-dataset)
+
 ### Fire Department
 
 - [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx)

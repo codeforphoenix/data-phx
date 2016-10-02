@@ -24,9 +24,12 @@ Please send a pull request if you find any data you think would be useful.
   - [Unit Assignent Numbers](https://www.phoenix.gov/firesite/Documents/094635.pdf) (pdf)
 
 ### Police Department
-
-- [Aggregate Crime Statistics](http://phoenix.gov/police/crista1.html)
+- [Aggregate Crime Statistics](https://www.phoenix.gov/police/neighborhood-resources/crime-stats-maps)
+- [Outreach Initiatives](https://www.phoenix.gov/police/outreach-initiatives) 
+  - Includes data (pdf) re: Officer Involved Shootings, Police Demographics
 - [Live Scanner Audio](http://www.broadcastify.com/listen/feed/12145)
+- [Phoenix PD Operations Manual](https://www.phoenix.gov/policesite/Documents/operations_orders.pdf) (pdf) 
+  - 1,129 pages of police policy and guidelines
 
 ### Justice Department
 

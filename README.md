@@ -15,9 +15,13 @@ Please send a pull request if you find any data you think would be useful.
 - [Mapping Portal](http://maps.phoenix.opendata.arcgis.com/)
 
 ### Fire Department
-
-- [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx)
-  - [Code explanations](http://phoenix.gov/webcms/groups/internet/@inter/@dept/@fire/documents/web_content/051002.pdf)
+- [Dispatch Information](https://www.phoenix.gov/fire/directory/regional-9-1-1/regional-dispatch-center)
+- [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx) 
+  - [Nature codes](https://www.phoenix.gov/firesite/Documents/051051.pdf) (pdf) 
+    - Additionally some of this data is free-form (EX: "VEHICLE FIRE","SNAKE REMOVAL","OCTOBERFEST")
+    - Numerical Codes can be used to describe some incidents. The last page of [this document](https://www.phoenix.gov/firesite/Documents/074775.pdf) (pdf) covers some of these codes.
+  - [Color Code Explanations](https://www.phoenix.gov/firesite/Documents/051002.pdf) (pdf)
+  - [Unit Assignent Numbers](https://www.phoenix.gov/firesite/Documents/094635.pdf) (pdf)
 
 ### Police Department
 

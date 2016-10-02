@@ -10,6 +10,10 @@ Please send a pull request if you find any data you think would be useful.
 	- [Search Datasets](http://open.mesaaz.gov/search/)
 	- [External Data Suggestions](http://www.mesaaz.gov/city-hall/open-data/suggest-dataset)
 
+### City of Phoenix 
+- [Open Data Portal](https://www.phoenix.gov/opendata)
+- [Mapping Portal](http://maps.phoenix.opendata.arcgis.com/)
+
 ### Fire Department
 
 - [Dispatch Listings](https://htms.phoenix.gov/publicweb/Default.aspx)
